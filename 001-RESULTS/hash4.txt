@@ -1,0 +1,5 @@
+
+Algorithm       Hash                                                                   Path
+---------       ----                                                                   ----
+SHA256          64DB40A45D6EB5CCFC5B3E1D5E7C590C0AED5F31E8537F79B716B3E3C71E97FE       /Users/winstonjarquin/Documents/df-mod2-forensic-copy/001-evidence/doc4.txt
+
